@@ -1,4 +1,4 @@
 # demo-repo
 
 
-project description!
+project description.
